@@ -1,0 +1,6 @@
+{
+  "name": "Founder Capital - Zambian Virtual Mentorship Platform",
+  "description": "Founder Capital provides practical virtual mentorship for Zambian entrepreneurs on business growth, funding, international fellowships, and pitch preparation. Powered by Vigorish Media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
